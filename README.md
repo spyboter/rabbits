@@ -1,3 +1,3 @@
 # rabbits
 
-Program, which counts rabbits (in russian language)
+Program which counts rabbits (in russian language)
